@@ -1,0 +1,8 @@
+C:\Ai_Practice\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Ai_Practice\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Ai_Practice\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Ai_Practice\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Ai_Practice\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Ai_Practice\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Ai_Practice\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Ai_Practice\Calculator\Calculator\obj\Debug\Calculator.pdb

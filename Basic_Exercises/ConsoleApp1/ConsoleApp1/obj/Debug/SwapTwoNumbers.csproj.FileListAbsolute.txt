@@ -1,0 +1,8 @@
+C:\Ai_Practice\Basic_Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Ai_Practice\Basic_Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Ai_Practice\Basic_Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Ai_Practice\Basic_Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\SwapTwoNumbers.csproj.AssemblyReference.cache
+C:\Ai_Practice\Basic_Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\SwapTwoNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Ai_Practice\Basic_Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Ai_Practice\Basic_Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Ai_Practice\Basic_Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,26 +1,48 @@
-﻿class Animal
-{ 
-    //public void breathe()
-     public virtual void breathe() //With Polymorphism
-    {
-        Console.WriteLine("Animals breathe.");
-    }
-}
-
-class Fish : Animal
+﻿abstract class Vehicle : IVehicle
 {
     //public void breathe()
-    public override void breathe() //With Polymorphism
-    {
-        Console.WriteLine("Fish breathes in the water.");
-    }
+    public abstract void Move(); //With Polymorphism
 }
 
-class Dog : Animal
+abstract class Automobile : Vehicle
 {
-    public void voice()
+    //public void breathe()
+    public abstract void Drive(); //With Polymorphism    
+}
+
+class Sedan : Automobile
+{
+    public override void Drive()
+    {
+        throw new NotImplementedException();
+    }
+
+    public override void Move()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void CarryPassengers()
     {
         Console.WriteLine("Woof Woof");
+    }
+}
+
+abstract class Aircraft : Vehicle
+{
+    public abstract void Fly();
+}
+
+class Drone : Aircraft
+{
+    public override void Fly()
+    {
+        throw new NotImplementedException();
+    }
+
+    public override void Move()
+    {
+        throw new NotImplementedException();
     }
 }
 

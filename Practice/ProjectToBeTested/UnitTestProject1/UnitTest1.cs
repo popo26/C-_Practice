@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ProjectToBeTested;
-using System;
-using System.Net;
-using System.Security.Cryptography.X509Certificates;
 
 
 ///<summary>
